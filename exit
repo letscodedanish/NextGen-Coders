@@ -1,0 +1,62 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c7674c4..f247727 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1048,6 +1048,28 @@[m
+                 </div>[m
+               </div>[m
+             </div>[m
+[32m+[m[32m            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">[m[41m[m
+[32m+[m[32m              <div class="member" data-aos="fade-up" data-aos-delay="100">[m[41m[m
+[32m+[m[32m                <div class="member-img">[m[41m[m
+[32m+[m[32m                  <img src="assets/img/team/Ansh.jpg" class="img-fluid" alt=""  />[m[41m[m
+[32m+[m[32m                  <div class="social">[m[41m[m
+[32m+[m[32m                    <!-- <a href="https://github.com/letscodedanish"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-web"></i[m[41m[m
+[32m+[m[32m                    ></a>[m[41m[m
+[32m+[m[32m                    <a href="https://www.instagram.com/danishhh.khan_/"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-instagram"></i[m[41m[m
+[32m+[m[32m                    ></a>[m[41m[m
+[32m+[m[32m                    <a href="https://www.linkedin.com/in/danish-khan-3354791b3/"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-linkedin"></i[m[41m[m
+[32m+[m[32m                    ></a> -->[m[41m[m
+[32m+[m[32m                  </div>[m[41m[m
+[32m+[m[32m                </div>[m[41m[m
+[32m+[m[32m                <div class="member-info">[m[41m[m
+[32m+[m[32m                  <h4>Ansh Chaurasiya</h4>[m[41m[m
+[32m+[m[32m                  <span>Machine Learning</span>[m[41m[m
+[32m+[m[32m                </div>[m[41m[m
+[32m+[m[32m              </div>[m[41m[m
+[32m+[m[32m            </div>[m[41m [m
+ [m
+             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">[m
+               <div class="member" data-aos="fade-up" data-aos-delay="400">[m
+[36m@@ -1066,6 +1088,28 @@[m
+                 </div>[m
+               </div>[m
+             </div>[m
+[32m+[m[32m            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">[m[41m[m
+[32m+[m[32m              <div class="member" data-aos="fade-up" data-aos-delay="100">[m[41m[m
+[32m+[m[32m                <div class="member-img">[m[41m[m
+[32m+[m[32m                  <img src="assets/img/team/Adi.jpg" class="img-fluid" alt=""  />[m[41m[m
+[32m+[m[32m                  <div class="social">[m[41m[m
+[32m+[m[32m                    <!-- <a href="https://github.com/letscodedanish"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-web"></i[m[41m[m
+[32m+[m[32m                    ></a>[m[41m[m
+[32m+[m[32m                    <a href="https://www.instagram.com/danishhh.khan_/"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-instagram"></i[m[41m[m
+[32m+[m[32m                    ></a>[m[41m[m
+[32m+[m[32m                    <a href="https://www.linkedin.com/in/danish-khan-3354791b3/"[m[41m[m
+[32m+[m[32m                      ><i class="icofont-linkedin"></i -->[m[41m[m
+[32m+[m[32m                    </a>[m[41m[m
+[32m+[m[32m                  </div>[m[41m[m
+[32m+[m[32m                </div>[m[41m[m
+[32m+[m[32m                <div class="member-info">[m[41m[m
+[32m+[m[32m                  <h4>Aditya Choubey</h4>[m[41m[m
+[32m+[m[32m                  <span>Editer</span>[m[41m[m
+[32m+[m[32m                </div>[m[41m[m
+[32m+[m[32m              </div>[m[41m[m
+[32m+[m[32m            </div>[m[41m[m
+           </div>[m
+           <div data-aos="fade-up" data-aos-delay="200">[m
+             <center>[m
