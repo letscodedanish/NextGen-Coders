@@ -4,7 +4,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #9290C3;
+  background-color: #070F2B;
 }
 
 a {
@@ -70,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 15px 0;
-  background: #fff;
+  background: #070F2B;
 }
 
 #header .logo h1 {
@@ -121,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #555555;
+  color: #00ADB5;
   padding: 8px 0 12px 25px;
   transition: 0.3s;
   font-size: 14px;
@@ -129,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #3498db;
+  color: white;
   text-decoration: none;
 }
 
@@ -356,6 +357,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 70vh;
   margin-top: 70px;
+  background-color: white;
 }
 
 #hero h1 {
@@ -363,11 +365,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  
+  color: #070F2B;
 }
 
 #hero h2 {
-  color: #484848;
+  color: black;
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -467,7 +469,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7fbfe;
+  background-color: #070F2B;
 }
 
 .section-title {
@@ -480,7 +482,7 @@ section {
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
-  color: #222222;
+  color: whitesmoke;
 }
 
 .section-title h2::before, .section-title h2::after {
@@ -654,7 +656,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #3498db;
+  color: #00ADB5;
   float: left;
 }
 
@@ -663,7 +665,7 @@ section {
   line-height: 30px;
   display: block;
   font-weight: 700;
-  color: #222222;
+  color: #9290C3;
   margin-left: 50px;
 }
 
@@ -672,7 +674,7 @@ section {
   margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #484848;
+  color: #EEEEEE;
 }
 
 .counts .content .count-box a {
@@ -1108,7 +1110,7 @@ section {
   overflow: hidden;
   text-align: center;
   border-radius: 5px;
-  background: #fff;
+  background: white;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -1318,7 +1320,7 @@ section {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #222222;
+  color: #9290C3;
 }
 
 .contact .contact-about p {
@@ -1402,7 +1404,7 @@ width : 100%;
 }
 }
 .contact .info {
-  color: #444444;
+  color: #9290C3;
 }
 
 .contact .info i {
@@ -1469,7 +1471,7 @@ width : 100%;
 }
 
 .contact .php-email-form input, .contact .php-email-form textarea {
-  border-radius: 0;
+  border-radius: 25px;
   box-shadow: none;
   font-size: 14px;
 }
@@ -1634,8 +1636,9 @@ width : 100%;
   background: #fff;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 0;
-  color: #222222;
+  color: #9290C3;
   font-size: 14px;
+  background-color: black;
 }
 
 #footer .credits {
@@ -1645,7 +1648,7 @@ width : 100%;
 }
 
 #footer .footer-links a {
-  color: #222222;
+  color: #EEEEEE;
   padding-left: 15px;
 }
 
